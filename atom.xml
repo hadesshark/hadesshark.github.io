@@ -54,4 +54,25 @@
     
   </entry>
   
+  <entry>
+    <title>第一個hexo文章</title>
+    <link href="https://hadesshark.github.io/2017/03/06/%E7%AC%AC%E4%B8%80%E5%80%8Bhexo%E6%96%87%E7%AB%A0/"/>
+    <id>https://hadesshark.github.io/2017/03/06/第一個hexo文章/</id>
+    <published>2017-03-06T13:57:15.000Z</published>
+    <updated>2017-03-06T14:09:37.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;主要目的是為了能夠在上傳到 github page ，聽說 hexo 不錯用，但是要安裝 node.js ，之後安裝 hexo 指令如下：&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;p
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+      <category term="node.js" scheme="https://hadesshark.github.io/tags/node-js/"/>
+    
+  </entry>
+  
 </feed>
