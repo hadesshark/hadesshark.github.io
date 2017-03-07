@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hadesshark.github.io/"/>
-  <updated>2017-03-07T12:03:38.000Z</updated>
+  <updated>2017-03-07T12:25:00.000Z</updated>
   <id>https://hadesshark.github.io/</id>
   
   <author>
@@ -16,18 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://hadesshark.github.io/2017/03/07/hello-world/"/>
-    <id>https://hadesshark.github.io/2017/03/07/hello-world/</id>
-    <published>2017-03-07T12:03:38.000Z</published>
-    <updated>2017-03-07T12:03:38.000Z</updated>
+    <title>hexo-admin要小心使用</title>
+    <link href="https://hadesshark.github.io/2017/03/07/hexo-admin%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BD%BF%E7%94%A8/"/>
+    <id>https://hadesshark.github.io/2017/03/07/hexo-admin要小心使用/</id>
+    <published>2017-03-07T07:05:57.000Z</published>
+    <updated>2017-03-07T12:25:00.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;一個不小心就把之前寫的 next 安裝心得給刪了Q_Q。&lt;/p&gt;
+&lt;p&gt;剛才發現 hexo-admin 外掛只是把文件移到其它地方，還好有再檢查。&lt;/p&gt;
+
     
     </summary>
     
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Next主題設置</title>
+    <link href="https://hadesshark.github.io/2017/03/07/next%E4%B8%BB%E9%A1%8C%E8%A8%AD%E7%BD%AE/"/>
+    <id>https://hadesshark.github.io/2017/03/07/next主題設置/</id>
+    <published>2017-03-07T02:17:52.000Z</published>
+    <updated>2017-03-07T12:24:40.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;主要就是根目錄下的&lt;code&gt;_config.yml&lt;/code&gt;和 next 目錄下的&lt;code&gt;/test/_config.yml&lt;/code&gt;的設定。&lt;/p&gt;
+&lt;p&gt;下面是 code ：&lt;br&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
     
   </entry>
   
