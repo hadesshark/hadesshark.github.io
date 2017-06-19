@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hadesshark</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hadesshark.github.io/"/>
+  <updated>2017-06-19T11:56:19.656Z</updated>
+  <id>https://hadesshark.github.io/</id>
+  
+  <author>
+    <name>hadesshark</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>學習 ssh 相關知識</title>
+    <link href="https://hadesshark.github.io/2017/06/19/%E5%AD%B8%E7%BF%92-ssh-%E7%9B%B8%E9%97%9C%E7%9F%A5%E8%AD%98/"/>
+    <id>https://hadesshark.github.io/2017/06/19/學習-ssh-相關知識/</id>
+    <published>2017-06-19T15:34:36.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天 travis ci 連接 github 終於成功了！&lt;br&gt;測試用 ssh 和 github api token 最後用 token 方法才成功，以下是配置過程：&lt;br&gt;（一）github 新增 Persional access tokens&lt;/p&gt;
+&lt;p&gt;（二）在電
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+      <category term="travis ci" scheme="https://hadesshark.github.io/tags/travis-ci/"/>
+    
+      <category term="CI" scheme="https://hadesshark.github.io/tags/CI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>關於 hexo deploy 問題</title>
+    <link href="https://hadesshark.github.io/2017/06/18/%E9%97%9C%E6%96%BC-hexo-deploy-%E5%95%8F%E9%A1%8C/"/>
+    <id>https://hadesshark.github.io/2017/06/18/關於-hexo-deploy-問題/</id>
+    <published>2017-06-18T18:52:13.000Z</published>
+    <updated>2017-06-19T11:56:19.724Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;目前遇到的問題就是無法用 travis ci 上傳 github 這個部份，依照不用 ci 的步驟應該是：&lt;br&gt;（一）&lt;code&gt;hexo clear&lt;/code&gt;&lt;br&gt;（二）&lt;code&gt;hexo g&lt;/code&gt;&lt;br&gt;（三）&lt;code&gt;hexo d&lt;/code&gt;&lt;b
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+      <category term="travis ci" scheme="https://hadesshark.github.io/tags/travis-ci/"/>
+    
+      <category term="git" scheme="https://hadesshark.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>關於 CI 的一些小小心得</title>
+    <link href="https://hadesshark.github.io/2017/06/18/%E9%97%9C%E6%96%BC-CI-%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E5%B0%8F%E5%BF%83%E5%BE%97/"/>
+    <id>https://hadesshark.github.io/2017/06/18/關於-CI-的一些小小心得/</id>
+    <published>2017-06-18T15:09:44.000Z</published>
+    <updated>2017-06-19T11:56:19.724Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這一篇是關於 python 專案 ci 設定問題。最開始是從《Python 項目開發實戰》中關於 Jenkins 設定開始的。在第十章中知道可以輸出報告和顯示覆蓋率報告，但我僅想了解最後的結果，簡單來說就是在 github README.md 中顯示目前專案情況，而且不想透
+    
+    </summary>
+    
+    
+      <category term="travis ci" scheme="https://hadesshark.github.io/tags/travis-ci/"/>
+    
+      <category term="CI" scheme="https://hadesshark.github.io/tags/CI/"/>
+    
+      <category term="Jenkins" scheme="https://hadesshark.github.io/tags/Jenkins/"/>
+    
+      <category term="coveralls" scheme="https://hadesshark.github.io/tags/coveralls/"/>
+    
+      <category term="python" scheme="https://hadesshark.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最近在測試網路分享的讀書方法</title>
+    <link href="https://hadesshark.github.io/2017/04/07/%E6%9C%80%E8%BF%91%E5%9C%A8%E6%B8%AC%E8%A9%A6%E7%B6%B2%E8%B7%AF%E5%88%86%E4%BA%AB%E7%9A%84%E8%AE%80%E6%9B%B8%E6%96%B9%E6%B3%95/"/>
+    <id>https://hadesshark.github.io/2017/04/07/最近在測試網路分享的讀書方法/</id>
+    <published>2017-04-07T22:01:21.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;網路上提供的讀書方法昨天和前天測試了一下，還算可以（第一次測試時，感覺沒讀到書），如果有新的想法會再打進來的XD&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>D3.js 學習心得</title>
+    <link href="https://hadesshark.github.io/2017/03/30/D3-js-%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97/"/>
+    <id>https://hadesshark.github.io/2017/03/30/D3-js-學習心得/</id>
+    <published>2017-03-30T18:42:30.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天想說用 Go.js 寫視覺化，但卻有水印。雖然 D3.js 沒辦法在文章中寫入，但寫成普通網頁卻很簡單，而且文章也很多，所以就用 D3.js 。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="學習" scheme="https://hadesshark.github.io/categories/%E5%AD%B8%E7%BF%92/"/>
+    
+    
+      <category term="d3.js" scheme="https://hadesshark.github.io/tags/d3-js/"/>
+    
+      <category term="JavaScript" scheme="https://hadesshark.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>javascript 學習</title>
+    <link href="https://hadesshark.github.io/2017/03/22/javascript-%E5%AD%B8%E7%BF%92/"/>
+    <id>https://hadesshark.github.io/2017/03/22/javascript-學習/</id>
+    <published>2017-03-22T19:51:16.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這一篇文章主要是看 &lt;a href=&quot;http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;廖雪峰 - JavaScript教程&lt;/a&gt; 的心得，文章結構會用其章篇照順序來寫。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="學習" scheme="https://hadesshark.github.io/categories/%E5%AD%B8%E7%BF%92/"/>
+    
+    
+      <category term="JavaScript" scheme="https://hadesshark.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>筆電架心得</title>
+    <link href="https://hadesshark.github.io/2017/03/14/%E7%AD%86%E9%9B%BB%E6%9E%B6%E5%BF%83%E5%BE%97/"/>
+    <id>https://hadesshark.github.io/2017/03/14/筆電架心得/</id>
+    <published>2017-03-14T19:19:33.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;開箱&quot;&gt;&lt;a href=&quot;#開箱&quot; class=&quot;headerlink&quot; title=&quot;開箱&quot;&gt;&lt;/a&gt;開箱&lt;/h2&gt;&lt;p&gt;三月十號買的筆電架在中午左右終於送到了，真的超重的XDDD&lt;br&gt;買的是 &lt;a href=&quot;http://www.ergomap.com.tw/index.php?route=common/home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ErgoMap人因地圖&lt;/a&gt; 的 &lt;a href=&quot;http://www.ergomap.com.tw/EGA05&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;漂浮式 桌用人體工學筆電架&lt;/a&gt; 如下圖：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2017/03/14/筆電架心得/IMG_0244.JPG&quot; alt=&quot;Monitor Arm&quot;&gt;&lt;/p&gt;
+&lt;p&gt;上面這一盒是支架（這一盒因為有底座所以最重），但不加上筆電托盤部份。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="電腦設定" scheme="https://hadesshark.github.io/categories/%E9%9B%BB%E8%85%A6%E8%A8%AD%E5%AE%9A/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今天看 CI 和 DevOps 的心得</title>
+    <link href="https://hadesshark.github.io/2017/03/13/%E4%BB%8A%E5%A4%A9%E7%9C%8B-CI-%E5%92%8C-DevOps-%E7%9A%84%E5%BF%83%E5%BE%97/"/>
+    <id>https://hadesshark.github.io/2017/03/13/今天看-CI-和-DevOps-的心得/</id>
+    <published>2017-03-13T19:20:23.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;回歸程式設計的最開端順序分別是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;準備環境&lt;/li&gt;
+&lt;li&gt;寫程式&lt;/li&gt;
+&lt;li&gt;佈置程式（設定到指定位置）&lt;/li&gt;
+&lt;li&gt;測試程式&lt;/li&gt;
+&lt;li&gt;驗證結果&lt;/li&gt;
+&lt;li&gt;除錯&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果分工的話 1、3 是
+    
+    </summary>
+    
+      <category term="程式相關" scheme="https://hadesshark.github.io/categories/%E7%A8%8B%E5%BC%8F%E7%9B%B8%E9%97%9C/"/>
+    
+    
+      <category term="CI" scheme="https://hadesshark.github.io/tags/CI/"/>
+    
+      <category term="DevOps" scheme="https://hadesshark.github.io/tags/DevOps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>整理房間</title>
+    <link href="https://hadesshark.github.io/2017/03/12/%E6%95%B4%E7%90%86%E6%88%BF%E9%96%93/"/>
+    <id>https://hadesshark.github.io/2017/03/12/整理房間/</id>
+    <published>2017-03-12T15:13:06.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;房間的整理，就像寫程式一樣，需要「重構」。相同性質歸在一起，重複地就重構（或者刪去），但是對於書籍是否要丟就很難取捨，很多書雖然看完，但是總是不想丟掉，更不用說沒看和根本還沒看的。&lt;/p&gt;
+&lt;p&gt;目前最大的問題就是看完書後，什麼感覺都沒有留下來、知識更不用講了。雖然很多書，
+    
+    </summary>
+    
+      <category term="學習" scheme="https://hadesshark.github.io/categories/%E5%AD%B8%E7%BF%92/"/>
+    
+      <category term="整理" scheme="https://hadesshark.github.io/categories/%E5%AD%B8%E7%BF%92/%E6%95%B4%E7%90%86/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Shell 學習</title>
+    <link href="https://hadesshark.github.io/2017/03/11/Shell-%E5%AD%B8%E7%BF%92/"/>
+    <id>https://hadesshark.github.io/2017/03/11/Shell-學習/</id>
+    <published>2017-03-11T17:50:29.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;就是學習 Shell 的一篇文章。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="學習" scheme="https://hadesshark.github.io/categories/%E5%AD%B8%E7%BF%92/"/>
+    
+    
+      <category term="Shell" scheme="https://hadesshark.github.io/tags/Shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>關於學習</title>
+    <link href="https://hadesshark.github.io/2017/03/10/%E9%97%9C%E6%96%BC%E5%AD%B8%E7%BF%92/"/>
+    <id>https://hadesshark.github.io/2017/03/10/關於學習/</id>
+    <published>2017-03-10T20:24:43.000Z</published>
+    <updated>2017-06-19T11:56:19.724Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;對於最近的學習有些問題，在這一篇一一的寫下來。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="學習" scheme="https://hadesshark.github.io/categories/%E5%AD%B8%E7%BF%92/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>travis ci 使用心得</title>
+    <link href="https://hadesshark.github.io/2017/03/09/travis-ci-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/"/>
+    <id>https://hadesshark.github.io/2017/03/09/travis-ci-使用心得/</id>
+    <published>2017-03-09T20:46:29.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;簡單來說就是把 build 的動作交給 ci 來用，我只要好好打心得就可以了，目前在 mac 上測試成功，而且也順利把 hexo themes 主題上到 github 上了開心！！&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+      <category term="travis ci" scheme="https://hadesshark.github.io/tags/travis-ci/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天遇到的一些問題</title>
+    <link href="https://hadesshark.github.io/2017/03/08/%E4%BB%8A%E5%A4%A9%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E5%95%8F%E9%A1%8C/"/>
+    <id>https://hadesshark.github.io/2017/03/08/今天遇到的一些問題/</id>
+    <published>2017-03-08T16:39:27.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天在用 win7 電腦寫 hexo 時發現 themes 因為 git 的關係都沒有 push 到 github 上，就想說如何處理這個問題，早上遇到以下問題：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;想用 ssh 連到 mac ，遇到問題&lt;/li&gt;
+&lt;li&gt;在 win 上面因為 &lt;code&gt;themes/yilia&lt;/code&gt; 資料夾的問題&lt;/li&gt;
+&lt;li&gt;raspberry pi3 上的問題&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;說一下今天遇到的問題細節：&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="電腦設定" scheme="https://hadesshark.github.io/categories/%E9%9B%BB%E8%85%A6%E8%A8%AD%E5%AE%9A/"/>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-admin要小心使用</title>
+    <link href="https://hadesshark.github.io/2017/03/07/hexo-admin%E8%A6%81%E5%B0%8F%E5%BF%83%E4%BD%BF%E7%94%A8/"/>
+    <id>https://hadesshark.github.io/2017/03/07/hexo-admin要小心使用/</id>
+    <published>2017-03-07T15:05:57.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一個不小心就把之前寫的 next 安裝心得給刪了Q_Q。&lt;/p&gt;
+&lt;p&gt;剛才發現 hexo-admin 外掛只是把文件移到其它地方，還好有再檢查。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Next主題設置</title>
+    <link href="https://hadesshark.github.io/2017/03/07/next%E4%B8%BB%E9%A1%8C%E8%A8%AD%E7%BD%AE/"/>
+    <id>https://hadesshark.github.io/2017/03/07/next主題設置/</id>
+    <published>2017-03-07T10:17:52.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;主要就是根目錄下的&lt;code&gt;_config.yml&lt;/code&gt;和 next 目錄下的&lt;code&gt;/test/_config.yml&lt;/code&gt;的設定。&lt;/p&gt;
+&lt;p&gt;下面是 code ：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一個hexo文章</title>
+    <link href="https://hadesshark.github.io/2017/03/06/%E7%AC%AC%E4%B8%80%E5%80%8Bhexo%E6%96%87%E7%AB%A0/"/>
+    <id>https://hadesshark.github.io/2017/03/06/第一個hexo文章/</id>
+    <published>2017-03-06T21:57:15.000Z</published>
+    <updated>2017-06-19T11:56:19.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;主要目的是為了能夠在上傳到 github page ，聽說 hexo 不錯用，但是要安裝 node.js ，之後安裝 hexo 指令如下：&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;p
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://hadesshark.github.io/tags/hexo/"/>
+    
+      <category term="node.js" scheme="https://hadesshark.github.io/tags/node-js/"/>
+    
+  </entry>
+  
+</feed>
